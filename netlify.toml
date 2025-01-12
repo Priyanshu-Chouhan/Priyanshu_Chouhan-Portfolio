@@ -1,4 +1,8 @@
 [[redirects]]
 from = "/*"
 to = "/Responsive Portfolio Website/index.html"
+to = "/Responsive Portfolio Website/style.css"
+to = "/Responsive Portfolio Website/images"
+to = "/Responsive Portfolio Website/script.js"
+to = "/Priyanshu_Chouhan.pdf"
 status = 200
